@@ -1,0 +1,72 @@
+html {
+    height: 100%;
+  }
+  body {
+     width: 800px;
+     height: 100%;
+  }
+
+  header {
+      background-color: #20d5cf ;
+      padding: 1px;
+      border: 20px solid red;
+      font-size: 50px;
+      align-self: center;
+      display: block;
+      text-align: center;
+  }
+  nav {
+      float: left;
+      width: 99%;
+      border: 5px solid black
+  }
+  nav ul {
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      height: 5px;
+      padding: 1px 10px 10px 1px;
+      vertical-align: middle;
+  }
+  a {
+      color: ;
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+      float: left;
+
+    }
+
+    .text {
+      color: #20d5cf;
+    }
+  .dogimage {
+    width: 400px;
+
+  }
+  aside {
+      width: 15%;
+      display: inline-block;
+      background-color:#20d5cf;
+      padding:;
+      min-height: 100%;
+      border: 20px solid red;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
